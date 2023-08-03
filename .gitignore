@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# testing files for golang csv
+/csv_files
