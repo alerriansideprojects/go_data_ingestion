@@ -22,3 +22,7 @@ go.work
 
 # testing files for golang csv
 /csv_files
+configs
+
+# VSCode Stuff
+.vscode
